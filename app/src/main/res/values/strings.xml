@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyAppGame</string>
+    <string name="formText">Formulario</string>
+    <string name="about">Sobre mi</string>
+    <string name="titulo">Nombre</string>
+    <string name="descripcion">Descripción</string>
+</resources>
